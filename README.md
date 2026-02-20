@@ -28,8 +28,8 @@ OOP concepts and JDBC and MYSQL database connectivity with real-time application
 - MYSQL
 - Eclipse IDE
 - MYSQL Connector
-- ![onlineoutputP2](https://github.com/user-attachments/assets/e275a6a2-6b32-40da-bcd4-51cc8f8d5045)
 ![onlineoutputP1](https://github.com/user-attachments/assets/afebf051-53b2-492e-8755-8f8085f7e65b)
+![onlineoutputP2](https://github.com/user-attachments/assets/e275a6a2-6b32-40da-bcd4-51cc8f8d5045)
 GitHub
 
 ---

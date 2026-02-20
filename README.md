@@ -1,12 +1,12 @@
-# 🏦 Java Console Banking System
+# 🏦 Java Console Online Banking System
 
 ## 📌 Project Description
-This is a console-based banking application developed using Core Java.
+This is a console-based banking application developed using Core Java with JDBC and MySQL database connectivity.
 It allows users to register, login, deposit money, withdraw money,
 check balance, and view transaction history.
 
 This project was built to strengthen my understanding of Java
-OOP concepts and real-time application flow.
+OOP concepts and JDBC and MYSQL database connectivity with real-time application flow.
 
 ---
 
@@ -24,7 +24,10 @@ OOP concepts and real-time application flow.
 ## 🛠 Technologies Used
 - Core Java
 - OOP Concepts
+- JDBC
+- MYSQL
 - Eclipse IDE
+- MYSQL Connector
 - ![onlineoutputP2](https://github.com/user-attachments/assets/e275a6a2-6b32-40da-bcd4-51cc8f8d5045)
 ![onlineoutputP1](https://github.com/user-attachments/assets/afebf051-53b2-492e-8755-8f8085f7e65b)
 GitHub
@@ -56,10 +59,10 @@ BankProject/
 ---
 
 ## 🔮 Future Improvements
-- Add JDBC Database Connectivity
-- Add GUI using JavaFX or Swing
+- Add GUI using JavaFX or swing
 - Implement Password Encryption
 - Improve validation and error handling
+- Implement OTP verfication for login
 
 ---
 
